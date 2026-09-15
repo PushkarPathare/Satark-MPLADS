@@ -1,0 +1,8 @@
+{
+  "name": "Remix SATARK-MPLADS - Contractor Network Intelligence",
+  "description": "Decision-support and network anomaly intelligence for the Members of Parliament Local Area Development Scheme (MPLADS), identifying multi-entity relationships and verification signals across contractors, projects, implementing agencies, and districts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
